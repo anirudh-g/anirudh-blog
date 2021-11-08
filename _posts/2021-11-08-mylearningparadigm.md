@@ -1,8 +1,8 @@
 ---
 toc: true
 layout: post
-description: A minimal example of using markdown with fastpages.
-categories: [educational, computer science, general]
+description: A brief on my learning approach
+categories: [general]
 title: My learning paradigm
 ---
 # My learning paradigm
