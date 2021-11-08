@@ -1,10 +1,11 @@
 ---
-toc: true
+toc: false
 layout: post
 description: A brief on my learning approach
 categories: [general]
 title: My learning paradigm
 ---
+
 # My learning paradigm
 
 
@@ -17,9 +18,9 @@ Why am I saying all this?
 
 Good question! I am here to share my **learning paradigm** that helps me keep motivation and memory in order to achieve long-term consistency in learning. There a few things which I follow :
 
-**1. The Solution approach**
+1. The Solution approach**
 
-**2. Spaced Repetition**
+2. Spaced Repetition**
 
 ## The Solution approach
 
