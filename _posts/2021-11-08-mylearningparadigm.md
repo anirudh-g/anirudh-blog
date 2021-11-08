@@ -6,7 +6,6 @@ categories: [general]
 title: My learning paradigm
 ---
 
-# My learning paradigm
 
 
 > Long term consistency trumps short term intensity - Bruce Lee
