@@ -27,7 +27,7 @@ My goal is to build innovative ML products/solutions and help make data-driven d
 # Academic Background
 * MS Data Science, University of Glasgow 🇬🇧 Class of 2020 
 * B.Tech CSE, SRM University 🇮🇳 Class of 2019
-* Global Academic Internship Program on Data Science & Machine learning, National University of Singapore 🇸🇬 Dec 2018
+* Global Academic Internship Program on Data Science & Machine learning, National University of Singapore 🇸🇬 Dec 2017
 
 
 
