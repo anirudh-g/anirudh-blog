@@ -3,7 +3,7 @@ toc: false
 layout: post
 description: My thoughts on the learning experience offered by the fastbook
 categories: [books]
-title: Thoughts on the FASTBOOK
+title: FastBook review
 ---
 
 
@@ -13,7 +13,7 @@ title: Thoughts on the FASTBOOK
 
 This quote is something that we might have come across a lot of times. But how many of us have taken it seriously? 
 
-Well, the team at fastai has taken it seriously. They have created a deep learning course & an accompanying book that uses simple terms to demistify some of the most complex topics in the field. I read the book, which is called "Deep learning for Coders" a.k.a the fastbook.
+Well, the team at fastai has taken it seriously. They have created a deep learning course & an accompanying book that uses simple terms to demistify some of the most complex topics in the field. I read the book version, which is called "Deep learning for Coders" a.k.a the fastbook.
 
 I was pleasantly surprised by the book as it not only teaches the concepts in deep learning but also gives ideas, perspectives and a little nudge to even contribute back to the community. The best part is that all this is coming from an expert team at fastai led by the highly respected Dr.Jeremy Howard.
 
