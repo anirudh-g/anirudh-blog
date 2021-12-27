@@ -3,7 +3,7 @@ toc: false
 layout: post
 description: My thoughts on the learning experience offered by the fastbook
 categories: [books]
-title: FastBook review
+title: Review: the fastbook
 ---
 
 
