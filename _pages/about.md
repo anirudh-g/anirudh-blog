@@ -7,25 +7,25 @@ permalink: /about/
 **I am Anirudh Gokulaprasad, a Data Scientist with 1+ years of industry experience building Analytics & Machine learning based solutions in BFSI and Life Science domains.**
 
 
-# Work Experience
+### Work Experience
 * Data Scientist at Cognizant-Scorg 🇮🇳 Sep 2021 - Present
 * Data Analyst Trainee at Prodian Infotech 🇮🇳 Dec 2020 - Aug 2020
 
 
-# Academic Background
+### Academic Background
 * MS Data Science, University of Glasgow 🇬🇧 Class of 2020 
 * B.Tech CSE, SRM University 🇮🇳 Class of 2019
 * Global Academic Internship Program on Data Science & Machine learning, National University of Singapore 🇸🇬 Dec 2017
 
 
-# Skill Set 
+### Skill Set 
 * Programming Languages - Python, SQL
 * APIs/Framworks - Scikit-learn, XGBoost, LightGBM, CatBoost, Tensorflow-Keras, Fast.ai, Nvidia Rapids (cuDF & cuML), Optuna, Git, DVC, Streamlit and Docker
 * Tools - Excel, Tableau, PowerBI
 * ML Platforms - DataRobot, Azure ML Studio
 
 
-# Open-source competitions
+### Open-source competitions
 ##### 2021
 * (MachineHack) Music genre prediction : **[Top 13%]** - Rank 49 (out of 360) [Final Leaderboard](https://machinehack.com/hackathon/music_genre_classification_weekend_hackathon_edition_2_the_last_hacker_standing/leaderboard)
 * (MachineHack) TheMathCompany hackathon : **[Top 5%]** - Rank 137 (out of 2413) [Final Leaderboard](https://machinehack.com/hackathon/data_hack_mathcothon_car_price_prediction_challenge/leaderboard)
