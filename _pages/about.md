@@ -27,11 +27,11 @@ permalink: /about/
 
 # Open-source competitions
 ##### 2021
-* (MachineHack) Music genre prediction : [Top 13%] Rank 49 (out of 360) [Final Leaderboard](https://machinehack.com/hackathon/music_genre_classification_weekend_hackathon_edition_2_the_last_hacker_standing/leaderboard)
-* (MachineHack) TheMathCompany hackathon : [Top 5%] Rank 137 (out of 2413) [Final Leaderboard](https://machinehack.com/hackathon/data_hack_mathcothon_car_price_prediction_challenge/leaderboard)
+* (MachineHack) Music genre prediction : [Top 13%] - Rank 49 (out of 360) [Final Leaderboard](https://machinehack.com/hackathon/music_genre_classification_weekend_hackathon_edition_2_the_last_hacker_standing/leaderboard)
+* (MachineHack) TheMathCompany hackathon : [Top 5%] - Rank 137 (out of 2413) [Final Leaderboard](https://machinehack.com/hackathon/data_hack_mathcothon_car_price_prediction_challenge/leaderboard)
 
 ##### 2022
-* (Kaggle): Image based Pet Popularly prediction : [Top 23%] Rank 826 (out of 3537 teams) [Final Leaderboard](https://www.kaggle.com/c/petfinder-pawpularity-score/leaderboard)
+* (Kaggle): Image based Pet Popularly prediction : [Top 23%] - Rank 826 (out of 3537 teams) [Final Leaderboard](https://www.kaggle.com/c/petfinder-pawpularity-score/leaderboard)
 
 
 You can find me at [LinkedIn](https://www.linkedin.com/in/anirudh-gokulaprasad-44328b137/), [Twitter](https://twitter.com/Ani_Offl) and [Kaggle](https://www.kaggle.com/anirudhg15/code)
