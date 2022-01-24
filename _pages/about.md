@@ -8,8 +8,8 @@ permalink: /about/
 
 
 ### Work Experience
-* Data Scientist at Cognizant-Scorg 🇮🇳 Sep 2021 - Present
-* Data Analyst Trainee at Prodian Infotech 🇮🇳 Dec 2020 - Aug 2021
+* Data Scientist @ Cognizant-Scorg 🇮🇳 Sep 2021 - Present
+* Data Analyst Trainee @ Prodian Infotech 🇮🇳 Dec 2020 - Aug 2021
 
 
 ### Academic Background
