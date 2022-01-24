@@ -15,7 +15,7 @@ permalink: /about/
 ### Academic Background
 * MS Data Science, University of Glasgow 🇬🇧 Class of 2020 
 * B.Tech CSE, SRM University 🇮🇳 Class of 2019
-* Global Academic Internship Program on Data Science & Machine learning, National University of Singapore 🇸🇬 Dec 2017
+* Global Academic Internship Program on Data Science, National University of Singapore 🇸🇬 Dec 2017
 
 
 ### Skill Set 
