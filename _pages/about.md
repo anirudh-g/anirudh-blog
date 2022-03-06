@@ -4,9 +4,6 @@ title: About Me
 permalink: /about/
 ---
 
-**I am Anirudh Gokulaprasad, a Data Scientist with 1+ years of industry experience building Analytics & Machine learning based solutions in BFSI and Life Science domains.**
-
-
 ### Work Experience
 * Data Scientist at Cognizant-Scorg 🇮🇳 Sep 2021 - Present
 * Data Analyst Trainee at Prodian Infotech 🇮🇳 Dec 2020 - Aug 2021
@@ -19,10 +16,10 @@ permalink: /about/
 
 
 ### Skill Set 
-* Programming Languages - Python, SQL
+* Programming Languages - Python & SQL
 * APIs/Framworks - Scikit-learn, XGBoost, LightGBM, CatBoost, Tensorflow-Keras, Fast.ai, Nvidia Rapids (cuDF & cuML), Optuna, Git, DVC, Streamlit and Docker
 * Viz Tools - Excel, Tableau, PowerBI
-* ML Platforms - DataRobot, Azure ML Studio
+* ML Platforms - DataRobot & Azure ML Studio
 
 
 ### Open-source competitions
@@ -34,7 +31,7 @@ permalink: /about/
 * (MachineHack) [TheMathCompany hackathon](https://machinehack.com/hackathon/data_hack_mathcothon_car_price_prediction_challenge/leaderboard) : **[Top 5%]** - Rank 137 (of 2413)
 
 
-**My goal is to conceptualise, design & drive ML products/solutions at scale and help make data-driven decisions using my expertise as Data Scientist**
+**My goal is to conceptualise, design & drive end-to-end machine learning products/solutions at scale and help make data-driven decisions using my expertise as Data Scientist**
 
 
 You can find me at [LinkedIn](https://www.linkedin.com/in/anirudh-gokulaprasad-44328b137/), [Twitter](https://twitter.com/Ani_Offl) and [Kaggle](https://www.kaggle.com/anirudhg15/code)
