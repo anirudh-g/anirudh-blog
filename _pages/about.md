@@ -29,9 +29,3 @@ permalink: /about/
 ##### 2021
 * (MachineHack) [Music genre prediction](https://machinehack.com/hackathon/music_genre_classification_weekend_hackathon_edition_2_the_last_hacker_standing/leaderboard) : **[Top 13%]** - Rank 49 (of 360)
 * (MachineHack) [TheMathCompany hackathon](https://machinehack.com/hackathon/data_hack_mathcothon_car_price_prediction_challenge/leaderboard) : **[Top 5%]** - Rank 137 (of 2413)
-
-
-**My goal is to conceptualise, design & drive end-to-end machine learning products/solutions at scale and help make data-driven decisions using my expertise as Data Scientist**
-
-
-You can find me at [LinkedIn](https://www.linkedin.com/in/anirudh-gokulaprasad-44328b137/), [Twitter](https://twitter.com/Ani_Offl) and [Kaggle](https://www.kaggle.com/anirudhg15/code)
